@@ -1,0 +1,13 @@
+{
+  "original": "https://www.codeforces.com/problemset/problem/1840/B",
+  "title": "Keyring Limit",
+  "tags": [
+    "Dynamic Programming",
+    "Divide and Conquer",
+    "Algorithm Complexity and Big O Notation"
+  ],
+  "model_breaking": true,
+  "time": 2,
+  "space": 32,
+  "github_link": "https://github.com/MSFT-Codeforces/keyring_limit"
+}
